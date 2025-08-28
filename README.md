@@ -3,8 +3,7 @@
 > A modern web app that allows users to upload an image and instantly discover visually similar products.  
 > Built as part of a technical assessment, this project highlights **problem-solving**, **clean architecture**, and **real-world usability**.
 
-🔗 **Live Application**: [View Demo](https://image-analayzing-tool.onrender.com/)  
-💻 **Source Code**: [GitHub Repo](https://github.com/Aslaan001/Image-Analayzing-Tool)
+
 
 ---
 
@@ -149,3 +148,4 @@ Extendable UI with Radix + Framer Motion
 
 ✅ ESLint + Prettier for clean code
 ```
+
