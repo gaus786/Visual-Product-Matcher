@@ -106,46 +106,5 @@ App runs on http://localhost:3000
 npm run build
 npm start
 
-📡 API Endpoints
 
-POST /api/analyze → Send image for AI-powered analysis
-
-POST /api/search → Product similarity search
-
-GET /api/products → Fetch all products
-
-POST /api/products → Insert a new product
-
-GET /api/related-products → Suggest related items
-
-🎨 Styling & Customization
-
-Fully themeable via TailwindCSS
-
-Supports light/dark mode (via next-themes)
-
-Utility-based component architecture
-
-Extendable UI with Radix + Framer Motion
-
-📊 Performance & Scalability
-
-✅ Database indexing for fast queries
-
-✅ Optimized search scoring
-
-✅ Efficient image handling pipeline
-
-✅ Serverless-friendly APIs
-
-🔒 Security & Quality
-
-✅ Input validation & sanitization
-
-✅ Environment-based configuration
-
-✅ TypeScript strict mode enabled
-
-✅ ESLint + Prettier for clean code
-```
 
